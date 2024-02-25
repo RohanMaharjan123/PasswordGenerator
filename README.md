@@ -1,8 +1,8 @@
 # PasswordGenerator
 A Simple Password generator using Java.
 
-I have two files one is with JFrame and the other doesn't have.
-You can generate multiple time using without the JFrame one, and another needing to close the frame window.
+I have two folders one is with JFrame and the other is with JFrame and Jpanel.
+You can generate multiple time using JFrame one, and Jpanel is required to close the frame window.
 
 ## Output
 
