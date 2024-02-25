@@ -1,4 +1,4 @@
-package password_generator.Password_Generator.src.Password_Generator_using_JLabel;
+package password_generator.Password_Generator.src.src.Password_Generator_using_JLabel;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
